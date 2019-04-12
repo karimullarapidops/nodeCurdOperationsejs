@@ -1,0 +1,86 @@
+[
+  {
+      "name": "kareem",
+      "age": 24
+  },
+  {
+    "name": "vamsi",
+    "age": 25
+   },
+   {
+    "name": "narendra",
+    "age": 23
+   },
+   {
+    "name": "karthik",
+    "age": 22
+    },
+    {
+        "name": "anil",
+        "age": 20
+    },
+    {
+        "name": "kalyan",
+        "age": 20
+    },
+    {
+        "name": "manjoor",
+        "age": 21
+    },
+    {
+        "name": "kareem",
+        "age": 24
+    },
+    {
+      "name": "vamsi",
+      "age": 25
+     },
+     {
+      "name": "narendra",
+      "age": 23
+     },
+     {
+      "name": "karthik",
+      "age": 22
+      },
+      {
+          "name": "anil",
+          "age": 20
+      },
+      {
+          "name": "kalyan",
+          "age": 20
+      },
+      {
+          "name": "manjoor",
+          "age": 21
+      },
+      {
+        "name": "kareem",
+        "age": 24
+    },
+    {
+      "name": "vamsi",
+      "age": 25
+     },
+     {
+      "name": "narendra",
+      "age": 23
+     },
+     {
+      "name": "karthik",
+      "age": 22
+      },
+      {
+          "name": "anil",
+          "age": 20
+      },
+      {
+          "name": "kalyan",
+          "age": 20
+      },
+      {
+          "name": "manjoor",
+          "age": 21
+      }
+]
